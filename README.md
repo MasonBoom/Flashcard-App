@@ -21,4 +21,4 @@ The features in this application can utilizied by both students and teachers. St
  
  Start application in browser:
  Run npm start
- PC users may need to run: npm run start:server & npm run start:react
+
