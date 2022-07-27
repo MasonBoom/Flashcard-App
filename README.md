@@ -13,10 +13,8 @@ The features in this application can utilizied by both students and teachers. St
  - Node.js
  
 # Run locally
- Fork & clone repository
- Run npm install
- 
- Start application in browser:
- Run npm start
+ - Run <code>git clone https://github.com/MasonBoom/Flashcard-App</code> in your IDE to download locally
+ - Run <code>npm install</code> to install the required dependencies
+ - Start the application with <code>npm start</code>
 
 
